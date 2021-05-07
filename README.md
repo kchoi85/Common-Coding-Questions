@@ -17,20 +17,10 @@ List of 75 most frequently asked coding interview questions
 
 ---
 
-## Binary
-
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
-- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-
----
-
 ## Dynamic Programming
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
@@ -40,6 +30,16 @@ List of 75 most frequently asked coding interview questions
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+
+---
+
+## Binary
+
+- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ---
 
