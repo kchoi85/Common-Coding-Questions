@@ -131,6 +131,7 @@ List of 75 most frequently asked coding interview questions
 [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
 ---
+```
 /* 
 387. First Unique Character in a String
 s = "leetcode" -> return 0
@@ -801,5 +802,5 @@ class Solution {
         dfs(i, j-1, count+1, rooms);
     }
 }
-
+```
 
