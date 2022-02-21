@@ -1,7 +1,9 @@
 # Common Coding Questions
 List of 75 most frequently asked coding interview questions
 
-
+## log
+2022-09 run for amazon
+2022-02-20 rerun of blind 75
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
